@@ -8,7 +8,8 @@ The project focuses on handmade crochet items created with creativity, care, and
 
 ## 🎯 Project Objectives
 
-- Showcase handmade crochet products
+- ![Uploading image.png…]()
+Showcase handmade crochet products
 - Promote the Adi Yarn Doll brand
 - Display different crochet products and accessories
 - Provide information about the products
